@@ -1,0 +1,3 @@
+<aura:component implements="force:hasRecordId,flexipage:availableForAllPageTypes,lightning:actionOverride">
+	<c:orderDemo></c:orderDemo>
+</aura:component>
